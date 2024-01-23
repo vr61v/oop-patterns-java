@@ -9,10 +9,10 @@ public class Client {
         controller.Start(); controller.Drive(); controller.Stop();
     }
     public static void main(String[] args) {
-        System.out.println("========================");
+        System.out.println("====================================");
         DriveByCar(new CarFuelStandard());
-        System.out.println("========================");
+        System.out.println("====================================");
         DriveByCar(new CarFuelBoost());
-        System.out.println("========================");
+        System.out.println("====================================");
     }
 }
