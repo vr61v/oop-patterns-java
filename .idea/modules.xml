@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/BehavioralPatterns/BehavioralPatterns.iml" filepath="$PROJECT_DIR$/BehavioralPatterns/BehavioralPatterns.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/oop-patterns-java.iml" filepath="$PROJECT_DIR$/.idea/oop-patterns-java.iml" />
     </modules>
   </component>
