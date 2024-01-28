@@ -1,5 +1,5 @@
 package AbstractFactory;
 
 public abstract class Coffee {
-    protected String Company;
+    protected String company;
 }

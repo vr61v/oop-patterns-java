@@ -7,8 +7,8 @@ public class Client {
         Latte latte = factory.CreateLatte();
         Cappuccino cappuccino = factory.CreateCappuccino();
 
-        System.out.println("Espresso created by " + espresso.Company);
-        System.out.println("Latte created by " + latte.Company);
-        System.out.println("Cappuccino created by " + cappuccino.Company);
+        System.out.println("Espresso created by " + espresso.company);
+        System.out.println("Latte created by " + latte.company);
+        System.out.println("Cappuccino created by " + cappuccino.company);
     }
 }
